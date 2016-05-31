@@ -820,7 +820,7 @@ section #title .credits.right {
   float: right;
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 481px) {
   #title .credits {
     display: block;
     width: 100%;
@@ -859,7 +859,7 @@ section #title .credits.right {
     text-align:center;
   }
 }
-@media print, screen and (max-width: 480px) {
+@media print, screen and (min-width: 480px) {
   #header {
     margin-top: -20px;
   }

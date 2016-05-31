@@ -835,29 +835,6 @@ section #title .credits.right {
     float: none;
     display: block;
   }
-      #w{
-    width:1054px;
-    padding : 10px;
-    position : absolute;
-    top : 10px;
-    left : 50%;
-    margin-top: 230px;
-    margin-left: -533px;
-    overflow:hidden;
-  }
-  #div_menu{
-    max-width:200px;
-    float:left;
-    padding : 10px;
-    margin-right : 10px;
-    text-align:right;
-  }
-   #div_con{
-    max-width:800px;
-    float:left;
-    padding : 10px;
-    text-align:center;
-  }
   
 }
 @media print, screen and (min-width: 480px) {
